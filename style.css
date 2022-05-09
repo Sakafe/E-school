@@ -44,3 +44,46 @@
 .cat3{
     text-align: center;
 }
+.psychology{
+    margin-top: 40px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-img-top{
+    padding: 10px;
+}
+.icon-wraper{
+    padding: 10px;
+   display:flex ;
+}
+.sec-head{
+    text-align: center;
+}
+.man{
+    width: 120px;
+    height: 120px;
+}
+.about-text{
+    width: 580px;
+    padding-left: 30px;
+}
+.main{
+  width: 1130px;
+    padding-left: 270px;
+    display: flex;
+    text-align: center;
+}
+.cat4{
+    background-color: black;
+    color: #fff
+}
+.cat4 ul li{
+    list-style: none;
+   list-style-position: 0;
+}
+footer{
+    text-align: center;
+}
