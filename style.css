@@ -1,0 +1,46 @@
+.start{
+    width: 1440px;
+    height: 576px;
+    background: #F0FFF0;
+}
+.logo-img{
+    width: 118.07px;
+    height: 29px;
+}
+.btn{
+    background-color: #21B573;
+    color: #fff;
+    border-radius: 15px;
+}
+.part-1{
+    margin-top: 212px;
+    padding-left: 205px;
+}
+.part-2{
+   margin-top: 180px;
+   padding-left: 60px;
+}
+.illust{
+    width: 434.15px;
+    height: 261.54px;
+} 
+.cat{
+    
+    padding: 50px;
+ }
+.cat2{
+    text-align: center;
+    padding: 20px;
+    background: #F8FFFB;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.image{
+    width: 200px;
+    height: 200px;
+   
+}
+.cat3{
+    text-align: center;
+}
